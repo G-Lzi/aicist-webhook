@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "aicist.ai",
+  "Id": "9a92d583-8310-401a-9ab7-60510b390dc7"
+}
